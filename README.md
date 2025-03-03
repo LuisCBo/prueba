@@ -1,3 +1,7 @@
-<h1>Esto es una prueba</h1>
+<h1>Sistema de Registro</h1>
 
-- Prueba
+- Estado del proyecto: En construción
+
+Para ejecutar el sistema, debes poner:
+
+```npm install react```
